@@ -83,4 +83,4 @@ This project leverages machine learning techniques to predict crop yields across
 ### How to Run the Project
 1.⁠ ⁠Clone this repository:
    ```bash
-   git clone https://github.com/Hardik-Kashyap/crop-yield-prediction.git
+   git clone https://github.com/Hardik-Kashyap/ML_Project_Crop.ipynb
